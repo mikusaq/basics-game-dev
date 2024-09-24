@@ -1,3 +1,5 @@
 # Basics of Game Development test repository
 
-This repository is a test for Basics of Game Development course.
+This repository is a test for TLU's Basics of Game Development course.
+
+![](./tlu_logo.jpg)
